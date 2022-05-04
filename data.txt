@@ -1,0 +1,152 @@
+[
+ {
+  "user": "microsoft",
+  "repo": "playwright",
+  "url": "https://github.com/microsoft/playwright"
+ },
+ {
+  "user": "checkly",
+  "repo": "headless-recorder",
+  "url": "https://github.com/checkly/headless-recorder"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-python",
+  "url": "https://github.com/microsoft/playwright-python"
+ },
+ {
+  "user": "codeceptjs",
+  "repo": "CodeceptJS",
+  "url": "https://github.com/codeceptjs/CodeceptJS"
+ },
+ {
+  "user": "qawolf",
+  "repo": "qawolf",
+  "url": "https://github.com/qawolf/qawolf"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-dotnet",
+  "url": "https://github.com/microsoft/playwright-dotnet"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-cli",
+  "url": "https://github.com/microsoft/playwright-cli"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-test",
+  "url": "https://github.com/microsoft/playwright-test"
+ },
+ {
+  "user": "playwright-community",
+  "repo": "playwright-go",
+  "url": "https://github.com/playwright-community/playwright-go"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-java",
+  "url": "https://github.com/microsoft/playwright-java"
+ },
+ {
+  "user": "ulixee",
+  "repo": "secret-agent",
+  "url": "https://github.com/ulixee/secret-agent"
+ },
+ {
+  "user": "playwright-community",
+  "repo": "jest-playwright",
+  "url": "https://github.com/playwright-community/jest-playwright"
+ },
+ {
+  "user": "enncy",
+  "repo": "online-course-script",
+  "url": "https://github.com/enncy/online-course-script"
+ },
+ {
+  "user": "Visual-Regression-Tracker",
+  "repo": "Visual-Regression-Tracker",
+  "url": "https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker"
+ },
+ {
+  "user": "checkly",
+  "repo": "theheadless.dev",
+  "url": "https://github.com/checkly/theheadless.dev"
+ },
+ {
+  "user": "carcabot",
+  "repo": "tiktok-signature",
+  "url": "https://github.com/carcabot/tiktok-signature"
+ },
+ {
+  "user": "roniemartinez",
+  "repo": "dude",
+  "url": "https://github.com/roniemartinez/dude"
+ },
+ {
+  "user": "DeploySentinel",
+  "repo": "Recorder",
+  "url": "https://github.com/DeploySentinel/Recorder"
+ },
+ {
+  "user": "testimio",
+  "repo": "root-cause",
+  "url": "https://github.com/testimio/root-cause"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-pytest",
+  "url": "https://github.com/microsoft/playwright-pytest"
+ },
+ {
+  "user": "PauloGoncalvesBH",
+  "repo": "running-playwright-on-aws-lambda",
+  "url": "https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda"
+ },
+ {
+  "user": "scrapy-plugins",
+  "repo": "scrapy-playwright",
+  "url": "https://github.com/scrapy-plugins/scrapy-playwright"
+ },
+ {
+  "user": "crusherdev",
+  "repo": "crusher",
+  "url": "https://github.com/crusherdev/crusher"
+ },
+ {
+  "user": "JupiterOne",
+  "repo": "playwright-aws-lambda",
+  "url": "https://github.com/JupiterOne/playwright-aws-lambda"
+ },
+ {
+  "user": "qawolf",
+  "repo": "playwright-video",
+  "url": "https://github.com/qawolf/playwright-video"
+ },
+ {
+  "user": "mxschmitt",
+  "repo": "awesome-playwright",
+  "url": "https://github.com/mxschmitt/awesome-playwright"
+ },
+ {
+  "user": "Georgegriff",
+  "repo": "query-selector-shadow-dom",
+  "url": "https://github.com/Georgegriff/query-selector-shadow-dom"
+ },
+ {
+  "user": "aerokube",
+  "repo": "moon",
+  "url": "https://github.com/aerokube/moon"
+ },
+ {
+  "user": "testing-library",
+  "repo": "playwright-testing-library",
+  "url": "https://github.com/testing-library/playwright-testing-library"
+ },
+ {
+  "user": "playwright-community",
+  "repo": "expect-playwright",
+  "url": "https://github.com/playwright-community/expect-playwright"
+ }
+]
