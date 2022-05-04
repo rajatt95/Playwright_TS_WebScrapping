@@ -1,5 +1,5 @@
 # Playwright_TS_WebScrapping
-Automation Testing | Web | Playwright | Typescript | VS Code | Get Data | Set Data in txt file
+Automation Testing | Web | Playwright | Typescript | VS Code | Get Data | Set Data in txt file | Viewport | Context | Web Scrapping
 
 ------------------------------------------------------------------------------------------------------------------------
 # Course: <a href="https://www.udemy.com/course/automated-software-testing-with-playwright/">Automated Software Testing with Playwright
