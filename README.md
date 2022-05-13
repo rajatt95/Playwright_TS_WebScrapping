@@ -8,7 +8,8 @@ Automation Testing | Web | Playwright | Typescript | VS Code | Get Data | Set Da
 # Tutor: <a href="https://www.udemy.com/user/shinoku911/">Kaniel Outis</a>
 
 ------------------------------------------------------------------------------------------------------------------------
-Learnings from Course : 
+# Learnings from Course : [Summary_UDEMY_KO_Automated Software Testing with Playwright.pdf](https://github.com/rajatt95/Playwright_TS_WebScrapping/files/8687169/Summary_UDEMY_KO_Automated.Software.Testing.with.Playwright.pdf)
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/26399692/166739606-f45f684c-f325-4324-bd10-2b6b57703c7a.png)
